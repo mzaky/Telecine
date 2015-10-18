@@ -11,7 +11,7 @@
   <string name="notification_recording_title">Capture de l\'écran en cours.</string>
   <string name="preferences">Paramètres</string>
   <string name="recents_hide">Ne pas afficher dans les applications récentes</string>
-  <string name="clear">XXXXXX</string>
+  <string name="clear">Effacer</string>
   <string name="record">Enregistrement</string>
   <string name="recording_notification">Notification d\'enregistrement</string>
   <string name="launch_overlay">Activer le calque</string>
